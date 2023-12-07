@@ -1,0 +1,48 @@
+
+.container{
+}
+
+.row{
+    background-color: bisque;
+    min-height: 50px;
+    border: 1px dashed black;
+}
+
+
+header{
+    min-height:100px;
+    background-color: gray;
+}
+
+
+.jumbotron{
+    min-height: 900px;
+    background-color: aqua;
+}
+
+
+.portfolio{
+    min-height: 900px;
+}
+
+
+.aboutme{
+    min-height: 900px;
+    background-color: aqua;
+}
+
+
+.contactme{
+    min-height: 900px;
+}
+
+.final-info{
+    min-height: 300px;
+    background-color: gray;
+
+}
+
+footer{
+    min-height: 100px;
+    background-color: rgb(80, 79, 79);
+}
