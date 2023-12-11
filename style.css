@@ -1,11 +1,9 @@
 
-.container{
-}
+
 
 .row{
     background-color: bisque;
     min-height: 50px;
-    border: 1px dashed black;
 }
 
 
@@ -34,6 +32,7 @@ header{
 
 .contactme{
     min-height: 900px;
+    
 }
 
 .final-info{
@@ -45,4 +44,9 @@ header{
 footer{
     min-height: 100px;
     background-color: rgb(80, 79, 79);
+}
+
+[class^='col']{
+    border: 2px dashed blue;
+    min-height: 50px;
 }
