@@ -1,15 +1,12 @@
-
-
+h1{
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+}
 
 .row{
     background-color: bisque;
     min-height: 50px;
-}
-
-
-header{
-    min-height:100px;
-    background-color: gray;
 }
 
 
@@ -37,7 +34,6 @@ header{
 
 .final-info{
     min-height: 300px;
-    background-color: gray;
 
 }
 
